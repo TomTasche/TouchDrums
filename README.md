@@ -1,4 +1,4 @@
-TouchDrums
+TouchDrums ![Image](icon.png?raw=true)
 ====
 You like loud sounds? We like them too! That's why we created TouchDrums: a fucking loud drum that fits into your pocket!
 
@@ -11,6 +11,8 @@ Description
 "The drums in your Pocket with TouchDrums!
 
 TouchDrums allows you to play drums on your phone by touching the drumset on the screen. It also includes some music samples which you can play while banging the drumset."
+
+![Image](drumset_full.png?raw=true)
 
 Praises
 ----
