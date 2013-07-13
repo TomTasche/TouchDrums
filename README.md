@@ -71,5 +71,7 @@ Overall
 ----
 All in all, this results in a fantastic average rating of 2.02 stars on the Google Play Store. That's almost as great as an average rating of top-notch apps like [Facebook Home](https://play.google.com/store/apps/details?id=com.facebook.home) and [Poop Break](https://play.google.com/store/apps/details?id=org.yellowcrow.poopbreak)!
 
+Stay tuned for more features in the next update - coming soon!
+
 Sincerely,
 Your TouchDrums-Team - making customers happy since Nov 19, 2009 <3
