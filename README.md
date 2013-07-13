@@ -2,7 +2,7 @@ TouchDrums ![Image](icon.png?raw=true)
 ====
 You like loud sounds? We like them too! That's why we created TouchDrums: a fucking loud drum that fits into your pocket!
 
-44.371 users already took the opportunity and gave TouchDrums a try. Out of those, incredible **93** users have been convinced by the functionality of TouchDrums. That's a active install rate of 0,2%! Most ad-financed apps can only dream of such rates!
+44.371 users already took the opportunity and gave TouchDrums a try. Out of those, incredible **93** users have been convinced by the functionality of TouchDrums. That's an active install rate of 0,2%! Most ad-financed apps can only dream of such rates!
 
 TouchDrums is used by hobbyists and experts alike. A few of our users outed themselves as real drummer in the comments. 
 
