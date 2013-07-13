@@ -6,6 +6,12 @@ You like loud sounds? We like them too! That's why we created TouchDrums: a fuck
 
 TouchDrums is used by hobbyists and experts alike. A few of our users outed themselves as real drummer in the comments. 
 
+Description
+----
+"The drums in your Pocket with TouchDrums!
+
+TouchDrums allows you to play drums on your phone by touching the drumset on the screen. It also includes some music samples which you can play while banging the drumset."
+
 Praises
 ----
 But who are we to tell you how awesome our app is? Let's just ask our customers what they think:
